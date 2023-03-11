@@ -15,4 +15,15 @@ The **Rapture Roleplay System** (v. 3.0), which powers this game, is an open-lic
 **An Open Gaming Project Statement (v. 1.0a, Public Domain/CC0).** The project before you is con-sidered an open gaming product, meaning the rules and other designated materials can be “freely copied, modified and distributed” (per the Open Gaming Foundation, 2023) under a largely unre-stricted (think: copyleft or permissive) license.This product uses unrestricted licenses to allow the project’s mechanics (and other material designated as open content) to remain open indefinitely. The open-licensed material cannot be closed off once contributed to the larger public (in digital, print, hybrid, etc. formats). Open gaming-friendly licenses might include, but are not limited to, the fol-lowing: CC-BY (3.0 or higher), CC-BY-SA (3.0 or higher), Open Publication License, and the GNU General Public License and the Free Documentation License (Free Software Foundation). This statement is meant to be an affirmation of open game philosophies found in game design and game development, as well as a mark of public accountability to be seen within the product in question. This statement does not constitute a license, nor should it be construed as legal advice.
 
 ## What Are Roleplaying Games?
+If you’re new to roleplaying games, this could be a daunting concept to understand. 
+
+Don’t worry.
+
+Roleplaying games are, at their very heart, easy to understand.
+
+Roleplaying games are those games in which a group of players shares a collective narrative, with numerous challenges, character development, and exciting, pulse-pounding action. These collective narratives are guided by the referee (REF), who interprets dice rolls, applies rulings, and uses the inner storytelling genius we all possess toward specific milestones. The REF is not God. The other players should assist the REF in creating an exciting, enriching, and worthwhile gaming experience, which the REF should be willing to be part of from the get-go.
+
+Roleplaying games require most individual players to take on a persona, who players have tailored for the game story they are playing within. For example, Pedyro "Quick Fingers" Wintson, a former bodyguard turned bandit leader, who loves good drinks and exquisite, exotic foods, might be the character you are playing within your **Rapture Roleplay System** campaign.
+
+Playing Quick Fingers, we’ll use his nickname, for now, you will interact with your fellow players and their in-game personae, along with the REF and her non-player characters (NPCs). You might also interact with the story world, using dice rolls to determine the results of certain confrontations and work with your REF in how you will likely roleplay a given situation, progress forward, and accomplish what your character has set out to do in this collective world. In all, you are indistinguishable from Quick Fingers. Everything Quick Fingers wants, you want. Everything Billy does, you have a hand in from the get-go. When the referee interacts with you, it is usually on the basis that you are acting in the interests of your character, in-game, Pedyro "Quick Fingers" Wintson.
 
