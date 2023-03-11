@@ -14,5 +14,5 @@ The **Rapture Roleplay System** (v. 3.0), which powers this game, is an open-lic
 
 **An Open Gaming Project Statement (v. 1.0a, Public Domain/CC0).** The project before you is con-sidered an open gaming product, meaning the rules and other designated materials can be “freely copied, modified and distributed” (per the Open Gaming Foundation, 2023) under a largely unre-stricted (think: copyleft or permissive) license.This product uses unrestricted licenses to allow the project’s mechanics (and other material designated as open content) to remain open indefinitely. The open-licensed material cannot be closed off once contributed to the larger public (in digital, print, hybrid, etc. formats). Open gaming-friendly licenses might include, but are not limited to, the fol-lowing: CC-BY (3.0 or higher), CC-BY-SA (3.0 or higher), Open Publication License, and the GNU General Public License and the Free Documentation License (Free Software Foundation). This statement is meant to be an affirmation of open game philosophies found in game design and game development, as well as a mark of public accountability to be seen within the product in question. This statement does not constitute a license, nor should it be construed as legal advice.
 
-## What Is This?
+## What Are Roleplaying Games?
 
