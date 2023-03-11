@@ -46,6 +46,14 @@ The **Rapture Roleplay System** moves away from the seriously overwhelming mathe
 ## Rulings, Not Rules
 A common set of problems in many roleplaying games (and, really, any game for that matter) is the deadly combination of rules and rules-lawyering. In any **Rapture Roleplay System**-powered game, rules should not be hard and fast. There should be a good deal of room for negotiation, especially if an outcome can be made more exciting and satisfying. Instead of fighting over the rules, players should negotiate with their referee and one another when it comes to what can and cannot be accomplished in-game This means rulings should be made by the group, allowing for the game to be organic in its flow and less cumbersome if the rules presented have serious flaws or are inhibiting meaningful gameplay and experiences.
 
+## Rulebook or Sourcebook
+The following SRD emphasizes sourcebooks over rulebooks. 
+
+The tabletop roleplaying hobby is notorious for its multi-hundred-page rulebooks, strict rules, and bloat. The **Rapture Roleplay System** was inspired by the **Free Kriegsspiel Revolution (FKR)** and its drive to make rulebooks less about rules and more about offering source material to gaming groups, so they can spend more time playing worlds or universes over memorizing and learning rules.  
+
+Yes, rules exist within this book, but they aren’t hard and fast (see below for a discussion on this). Much of this SRD, this living sourcebook, is about offering roleplaying fodder for groups that need it for their upcoming or existing games. The rules are light enough to allow groups modify them as needed and incorporate outside material (and material from this SRD) into their roleplaying games. 
+
+
 ## PC Skill vs. Player Skill
 Player skill is a must for playing a **Rapture Roleplay System**-powered game. Players will rely on their critical and creative thinking, their problem-solving, and their roleplaying abilities to overcome challenges facing their PCs in-game. While each PC has a character sheet, with skills and abilities, these character sheets should not be viewed as religious texts written in stone, to be held high and venerated for their words and phrases. These character sheets are living documents meant to assist players in navigating the game’s setting, all the while offering up some ways in which to tackle problems and score some much-needed experience points and loot. While dice can complicate matters, and the character sheets can help players navigate the game space, referees will want to offer up challenges that can be resolved with critical and creative thinking, problem-solving, and roleplaying. This triumvirate of abilities is going to make for meaningful gameplay and experiences for all players.
 
