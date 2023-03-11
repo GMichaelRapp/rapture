@@ -44,6 +44,7 @@ In recent years, there has been a lot of meaningful discussion on the demands pl
   - Work together using this conversational method to keep the game moving.
   - Ensure that the player character’s actions leave their mark on the game world or universe.
 
+## Some Notes for Players
 
 
 
