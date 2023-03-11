@@ -63,3 +63,8 @@ Player skill is a must for playing a **Rapture Roleplay System**-powered game. P
 ## The Secondary Role of ALL Players
 For those who are playing as player characters (PCs), and even those acting as referees, there is a secondary role **all** players must fulfill. Make this an enjoyable (and collective) experience. A **Rapture Roleplay System**-powered game is best experienced and enjoyed as a collaborative storytelling endeavor, with everyone, not just the Referee, sharing ideas and seeking out new opportunities to make game sessions exciting, entertaining, and a collective endeavor worth pursuing.
 
+---
+
+|[The Fundamentals]({% link fundamentals.md %})| Other | Other |
+
+---
