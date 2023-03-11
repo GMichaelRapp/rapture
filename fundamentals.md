@@ -1,3 +1,9 @@
+---
+layout: default
+title: Rapture Roleplay System
+description: System Reference Document (SRD), v.3.0
+---
+
 ## Who Is the Referee (REF)?
 The referee (REF) is the player who helps keep order over the happenings on, in-game and in-session, while embracing the chaos of gameplay and player-player interactions. The REF is not there to railroad storylines, stunt gameplay, or block player-player interactions A **good** REF will embrace the chaos, yes, but they will do so using the group’s rulings on those rules found here, prod players into meaningful interactions, and offer up those beautiful moments in gameplay that help create an enriching experience for everyone, including themselves. The REF, like the laws of physics, offers natural boundaries for acceptable play and fantastical fun to exist. Like gravity, the REF is there not to dole out meaningless consequences for actions taken or not taken, but, rather, to make consequences matter, make them fun, and, more importantly, make them consistent within the confines of the game’s story, the group’s shared universe, and the group’s expectations for meaningful gameplay and roleplaying.
 
