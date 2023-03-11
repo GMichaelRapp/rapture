@@ -2,6 +2,12 @@
 layout: default
 ---
 
+---
+
+|[The Fundamentals]({% link fundamentals.md %})| Other | Other |
+
+---
+
 ## Introduction to the SRD
 The **Rapture Roleplay System** was originally designed to be something completely different from its current rendition. In fact, it was meant to be a percentile dice (d%) system, but it never came to fruition as such. **Rapture Roleplay System** has since grown into a large-scale Breathless-based RPG, with plenty of rules-light philosophical underpinnings and an emphasis on playing worlds, not rules. Much of what you find here is the culmination of about three years’ worth of game design, setbacks, indie TTRPG inspirations, and a need to create something that suited the needs of newer players looking to break into TTRPGs.
 
