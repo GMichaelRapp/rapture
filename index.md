@@ -21,7 +21,7 @@ Don’t worry.
 
 Roleplaying games are, at their very heart, easy to understand.
 
-Roleplaying games are those games in which a group of players shares a collective narrative, with numerous challenges, character development, and exciting, pulse-pounding action. These collective narratives are guided by the referee (REF), who interprets dice rolls, applies rulings, and uses the inner storytelling genius we all possess toward specific milestones. The REF is not God. The other players should assist the REF in creating an exciting, enriching, and worthwhile gaming experience, which the REF should be willing to be part of from the get-go.
+Roleplaying games are those games in which a group of players shares a collective narrative, with numerous challenges, character development, and exciting, pulse-pounding action. These collective narratives are guided by the referee (REF), who interprets dice rolls, applies rulings, and uses the inner storytelling genius we all possess toward specific milestones. **The REF is not God.** The other players should assist the REF in creating an exciting, enriching, and worthwhile gaming experience, which the REF should be willing to be part of from the get-go.
 
 Roleplaying games require most individual players to take on a persona, who players have tailored for the game story they are playing within. For example, Pedyro "Quick Fingers" Wintson, a former bodyguard turned bandit leader, who loves good drinks and exquisite, exotic foods, might be the character you are playing within your **Rapture Roleplay System** campaign.
 
