@@ -15,7 +15,7 @@ In recent years, there has been a lot of meaningful discussion on the demands pl
 - Referees (REFs) are not the enemy. Trust they will make the game worthwhile. Referees have a tough job, so don’t be an asshole to them. Instead, offer to help out, offer ideas, negotiate with them, and try to make the game enjoyable for everyone. 
 - Referees (REFs) are not God or God-like, despite their actions indicating otherwise. They’re very human, mortal creatures, with thoughts, feelings, dreams, nightmares, and, very possibly, boring day jobs. As such, remember they are bound to make mistakes, forget things, and have bad days. Do your best to remember this as a player, and, when things aren’t looking up for the REF, offer up some ideas, encouragement, or a joke or two. 
 
-## Some Notes for Referees 
+## Some Guidance for Referees 
 - **Information**
   - Provide useful information about the game world as the characters explore it.
   - Players do not need to roll dice to learn about their circumstances.
@@ -53,7 +53,7 @@ In recent years, there has been a lot of meaningful discussion on the demands pl
 ## Who Are the Players?
 The players’ primary jobs are to take on the responsibilities for portraying the game’s protagonists, which will be referred to here on out as player character (PC). As a player, you make decisions on behalf of your character (PC) and describe to everyone else, including the referee, what your character says and does in-game. Players will also be mindful and take care of the mechanic side of being a character—rolling dice when it is appropriate, choose what abilities to use in certain situaations, and keeping track of health, grit, resolve, armor, ammo, and much more.
 
-## Some Notes for Players
+## Some Guidance for Players
 - **Agency**
   - Attributes and other related abilities do not define your character. They are tools.
   - Don’t ask only what your character would do, ask what you would do, too.
