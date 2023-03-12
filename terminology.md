@@ -6,7 +6,7 @@ description: System Reference Document (SRD), v.3.0
 
 ---
 
-| [Introductions]({% link index.md %})| [The Fundamentals]({% link fundamentals.md %}) | [Fundamentals]({% link fundamentals.md %})| 
+| [Introductions]({% link index.md %})| [The Fundamentals]({% link fundamentals.md %}) | [Terminology]({% link terminology.md %})| 
 
 ---
 
@@ -80,6 +80,6 @@ Those superheroic actions, originally pulled off during a skill check, that a ch
 
 ---
 
-| [Introductions]({% link index.md %})| [The Fundamentals]({% link fundamentals.md %}) | [Fundamentals]({% link fundamentals.md %})| |
+| [Introductions]({% link index.md %})| [The Fundamentals]({% link fundamentals.md %}) | [Terminology]({% link terminology.md %})| |
 
 ---
