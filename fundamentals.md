@@ -50,6 +50,9 @@ In recent years, there has been a lot of meaningful discussion on the demands pl
   - Work together using this conversational method to keep the game moving.
   - Ensure that the player character’s actions leave their mark on the game world or universe.
 
+## Who Are the Players?
+The players' primary jobs are to take on the responsibility for portraying one of the game's protagonists, which will be referred to here on out as player character (PC). As a player, you make decisions on behalf of your character (PC) and describe to everyone else, including the referee, what your character says and does in-game. Players will also be mindful and take care of the mechanic side of being a character—rolling dice when it is appropriate, choose what abilities to use in certain situaations, and keeping track of health, grit, resolve, armor, ammo, and much more. 
+
 ## Some Notes for Players
 
 
