@@ -48,6 +48,7 @@ Players have the option to break combat or the action, for a short period, by ga
 A character’s ability to resist physical damage to their body after having survived near death, death, or serious injuries. Most characters start with a Grit of zero (0). Grit caps at twenty-five (25). Using grit means you are welcoming discord somewhere down the line.
 
 ### Health
+The physical well-being of a player character (PC). Starting characters are given ten (10) starting health. This will increase to d4+10 when they level up. Health and sanity cap at 2d12+6, with a possible of thirty (30) total in health. 
 
 ### Knacks
 Those abilities that aren’t quite skills, nor are they stunts. They are the quirky, trivial abilities unique to each character. For example, a knack might be for Sally’s character the way she cleans her weapon, making it more efficient and less likely to jam with extended use. Knacks follow the **RULE OF THREE** for determining success, and they are usually rolled on a d6 or, in some contexts, a d8.
@@ -65,6 +66,7 @@ A character’s ability to overcome serious mental health crises. All characters
 The rule of three is as follows: **1–3** on the dice are considered failures; **4–9** are considered complications; and **10+** results are considered successes (or resounding successes, depending on the context). The higher the roll the better the results.
 
 ### Sanity
+The mental well-being of a player character (PC). Starting characters are given ten (10) starting sanity. This will increase to d4+10 when they level up. Sanity caps at 2d12+6, with a possible of thirty (30) total in sanity. 
 
 ### Stunts
 Those superheroic actions, originally pulled off during a skill check, that a character does when no one expected or knew they could pull off. Stunts are a shortcut inspired by that skill check where (say) a character used an improvised weapon, a soup can, to knock out an enemy combatant, without killing or injuring them seriously. A given stunt is unique to the character, and, when it is used, it is a spectacular feat. The referee, along with the other gaming group members, will need to determine if a stunt is simple (d12) or complex (2d12) in nature. They follow the **RULE OF THREE** for determining success
