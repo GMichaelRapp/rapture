@@ -13,9 +13,9 @@ These are used in lieu of traditional character classes, and these offer rolepla
 
 ### Attributes
 Those core abilities are seen in a character, such as Mind, Body, and Soul.
-Mind is a character’s ability to think, reason, synthesize, and grow intellectually.
-Body is a measure of a character’s physical prowess and dexterity.
-Soul is a measure of a character’s humanity and ability to navigate the social-emotional and cultural world around them.
+  - Mind is a character’s ability to think, reason, synthesize, and grow intellectually.
+  - Body is a measure of a character’s physical prowess and dexterity.
+  - Soul is a measure of a character’s humanity and ability to navigate the social-emotional and cultural world(s) around them.
 
 ### Attribute Ratings
 Each attribute, Mind, Body, and Soul, measures between zero (0) or normal and three (3) or super-heroic, but attributes might exceed this range maxing out between four (4) and ten (10). However, attributes can fall below zero (0), and they can fall as low as minus ten (-10). 
