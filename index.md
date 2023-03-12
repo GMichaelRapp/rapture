@@ -4,7 +4,7 @@ layout: default
 
 ---
 
-[The Fundamentals]({% link fundamentals.md %}) Other  Other 
+|[The Fundamentals]({% link fundamentals.md %})| [Terminology]({% link terminology.md %}|  Other |
 
 ---
 
@@ -72,6 +72,6 @@ For those who are playing as player characters (PCs), and even those acting as r
 
 ---
 
-[The Fundamentals]({% link fundamentals.md %}) Other Other 
+|[The Fundamentals]({% link fundamentals.md %})| [Terminology]({% link terminology.md %}|  Other |
 
 ---
