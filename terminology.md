@@ -75,4 +75,11 @@ The rule of three is as follows: **1–3** on the dice are considered failures; 
 The mental well-being of a player character (PC). Starting characters are given ten (10) starting sanity. This will increase to d4+10 when they level up. Sanity caps at 2d12+6, with a possible of thirty (30) total in sanity. 
 
 ### Stunts
-Those superheroic actions, originally pulled off during a skill check, that a character does when no one expected or knew they could pull off. Stunts are a shortcut inspired by that skill check where (say) a character used an improvised weapon, a soup can, to knock out an enemy combatant, without killing or injuring them seriously. A given stunt is unique to the character, and, when it is used, it is a spectacular feat. The referee, along with the other gaming group members, will need to determine if a stunt is simple (d12) or complex (2d12) in nature. They follow the **RULE OF THREE** for determining success
+Those superheroic actions, originally pulled off during a skill check, that a character does when no one expected or knew they could pull off. Stunts are a shortcut inspired by that skill check where (say) a character used an improvised weapon, a soup can, to knock out an enemy combatant, without killing or injuring them seriously. A given stunt is unique to the character, and, when it is used, it is a spectacular feat. The referee, along with the other gaming group members, will need to determine if a stunt is simple (d12) or complex (2d12) in nature. They follow the **RULE OF THREE** for determining success.
+
+
+---
+
+| [Index]({% link index.md %})| [The Fundamentals]({% link fundamentals.md %}) | [Fundamentals]({% link fundamentals.md %})| |
+
+---
