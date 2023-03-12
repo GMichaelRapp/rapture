@@ -7,7 +7,6 @@ description: System Reference Document (SRD), v.3.0
 ---
 
 | [Index]({% link index.md %})| [The Fundamentals]({% link fundamentals.md %}) | [Fundamentals]({% link fundamentals.md %})| 
-| | | |
 
 ---
 
