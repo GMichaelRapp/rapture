@@ -4,6 +4,12 @@ title: Rapture Roleplay System
 description: System Reference Document (SRD), v.3.0
 ---
 
+---
+
+| [Index]({% link index.md %})| [The Fundamentals]({% link fundamentals.md %}) | [Fundamentals]({% link fundamentals.md %})| |
+
+---
+
 ## Terminology
 Below there is a list of common terms (often) shared with other games, some not, which will prove useful to know before starting No One Owns the Sky.
 Advantage. This simply means a character is facing a task with an advantage on their side. For dice rolls, this means a player might be given an extra die or special modifier to help them succeed.
