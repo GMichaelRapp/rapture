@@ -1,4 +1,8 @@
-
+---
+layout: default
+title: Rapture Roleplay System
+description: System Reference Document (SRD), v.3.0
+---
 
 
 ## Terminology
