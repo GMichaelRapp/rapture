@@ -40,8 +40,14 @@ To leave combat, or any other intense moment, altogether, players can opt to use
 ### Ceiling 
 The notion that dice rolled plus additional modifiers cannot exceed maximum (ceiling) of thirty (30) when added together. 
 
+### Challenges
+
+### Checks
+
 ### Compel(s)
 A compel is issued by a Referee, or another player, who wishes to challenge a player’s character in a deep and meaningful way by facing their burdens. Players who accept a compel from their REF are likely to see great rewards and challenges ahead.
+
+### Contests
 
 ### Disadvantage
 This means a character faces a challenge at a disadvantage and is penalized in turn, meaning they are less likely to succeed in tackling the challenge in question.
@@ -64,6 +70,10 @@ The physical well-being of a player character (PC). Starting characters are give
 ### Knacks
 Those abilities that aren’t quite skills, nor are they stunts. They are the quirky, trivial abilities unique to each character. For example, a knack might be for Sally’s character the way she cleans her weapon, making it more efficient and less likely to jam with extended use. Knacks follow the **RULE OF THREE** for determining success, and they are usually rolled on a d6 or, in some contexts, a d8.
 
+### Modifiers
+
+### Moxie
+
 ### Referee (REF)
 The player who portrays characters not controlled by the other players helps make up the story and setting for the game, with other player feedback and serves as the mediator and interpreter of dice rolls, rules, rulings on rules, and consequences in-game.
 
@@ -82,6 +92,7 @@ The mental well-being of a player character (PC). Starting characters are given 
 ### Stunts
 Those superheroic actions, originally pulled off during a skill check, that a character does when no one expected or knew they could pull off. Stunts are a shortcut inspired by that skill check where (say) a character used an improvised weapon, a soup can, to knock out an enemy combatant, without killing or injuring them seriously. A given stunt is unique to the character, and, when it is used, it is a spectacular feat. The referee, along with the other gaming group members, will need to determine if a stunt is simple (d12) or complex (2d12) in nature. They follow the **RULE OF THREE** for determining success.
 
+### Tasks
 
 ---
 
