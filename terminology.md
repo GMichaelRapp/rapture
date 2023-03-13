@@ -53,6 +53,7 @@ Those actions in which players, and their REF, are quickly able to determine fai
 A compel is issued by a Referee, or another player, who wishes to challenge a player’s character in a deep and meaningful way by facing their burdens. Players who accept a compel from their REF are likely to see great rewards and challenges ahead.
 
 ### Contests
+These are actions in which two (2) or more parties act in opposition to one another. 
 
 ### Disadvantage
 This means a character faces a given action at disadvantage and is penalized in turn, meaning they are less likely to succeed in tackling the challenge in question.
@@ -98,6 +99,7 @@ The mental well-being of a player character (PC). Starting characters are given 
 Those superheroic actions, originally pulled off during a skill check, that a character does when no one expected or knew they could pull off. Stunts are a shortcut inspired by that skill check where (say) a character used an improvised weapon, a soup can, to knock out an enemy combatant, without killing or injuring them seriously. A given stunt is unique to the character, and, when it is used, it is a spectacular feat. The referee, along with the other gaming group members, will need to determine if a stunt is simple (d12) or complex (2d12) in nature. They follow the **RULE OF THREE** for determining success.
 
 ### Tasks
+Those actions in which players, and their referee, can quickly determine the outcome through roleplaying, problem-solving, and creative, critical thinking. Almost always, with some exceptions, a task will be successfully completed without needing to bring in the dice. 
 
 ---
 
