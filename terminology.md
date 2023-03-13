@@ -37,6 +37,9 @@ Are those difficult challenges facing a character. They are often inconvenient a
 ### Catch Your Breath
 To leave combat, or any other intense moment, altogether, players can opt to use “Catch Your Breath.” However, the consequences of doing so might be just as dangerous and unforgiving as combat itself. This helps reset physical health and Fortune, among other things.
 
+### Ceiling 
+The notion that dice rolled plus additional modifiers cannot exceed maximum (ceiling) of thirty (30) when added together. 
+
 ### Compel(s)
 A compel is issued by a Referee, or another player, who wishes to challenge a player’s character in a deep and meaningful way by facing their burdens. Players who accept a compel from their REF are likely to see great rewards and challenges ahead.
 
