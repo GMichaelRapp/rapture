@@ -26,7 +26,7 @@ Those core abilities are seen in a character, such as Mind, Body, and Soul.
   - Soul is a measure of a character’s humanity and ability to navigate the social-emotional and cultural world(s) around them.
 
 ### Attribute Ratings
-Each attribute, Mind, Body, and Soul, measures between zero (0) or normal and four (4) or super-heroic, but attributes might exceed this range maxing out between four (4) and ten (10). However, attributes can fall below zero (0), and they can fall as low as minus ten (-10). 
+Each attribute, Mind, Body, and Soul, measures between zero (0) or normal and four (4) or super-heroic, but attributes might exceed this range maxing out between five (5) and ten (10). However, attributes can fall below zero (0), and they can fall as low as minus ten (-10). 
 
 ### Backgrounds
 Backgrounds are those descriptors that make a player character unique. These include, but aren’t limited to, Ancestry, Beliefs, Culture, Personal History, and Social Class.
