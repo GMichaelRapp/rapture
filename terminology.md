@@ -14,6 +14,8 @@ description: System Reference Document (SRD), v.3.0
 Below there is a list of common terms (often) shared with other games, some not, which will prove useful to know before starting No One Owns the Sky.
 Advantage. This simply means a character is facing a task with an advantage on their side. For dice rolls, this means a player might be given an extra die or special modifier to help them succeed.
 
+### Advantage
+
 ### Archetype and Pathway
 These are used in lieu of traditional character classes, and these offer roleplaying possibilities that are squarely in the hands of the players to decide.
 
