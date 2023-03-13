@@ -41,8 +41,13 @@ To leave combat, or any other intense moment, altogether, players can opt to use
 The notion that dice rolled plus additional modifiers cannot exceed maximum (ceiling) of thirty (30) when added together. 
 
 ### Challenges
+Those player character actions that require a concerted effort to achieve success. Players are asked to roll to whittle down a Challenge Rating (CR), using successful skill rolls (4+ on any die). 
+
+### Challenge Rating (CR)
+A challenge's difficulty, rated between zero (null) and a hundred (100). Challenge ratings must be whittled down by rolling successful skill rolls (or other appropriate rolls). Once successful a moxie roll (see below) is applied to the CR, whittling it down toward zero (0). If a player manages to cut a CR down below five (5), referees can choose to say the challenge has been successfully conquered by the player. 
 
 ### Checks
+Those actions in which players, and their REF, are quickly able to determine failure, complication, or success of a given player character action. Checks are used to quickly test Attributes, Skills, Knacks, and Stunts. 
 
 ### Compel(s)
 A compel is issued by a Referee, or another player, who wishes to challenge a player’s character in a deep and meaningful way by facing their burdens. Players who accept a compel from their REF are likely to see great rewards and challenges ahead.
