@@ -11,10 +11,10 @@ description: System Reference Document (SRD), v.3.0
 ---
 
 ## Terminology
-Below there is a list of common terms (often) shared with other games, some not, which will prove useful to know before starting No One Owns the Sky.
-Advantage. This simply means a character is facing a task with an advantage on their side. For dice rolls, this means a player might be given an extra die or special modifier to help them succeed.
+Below there is a list of common terms (often) shared with other games, some not, which will prove useful to know before starting a game powered by the **Rapture Roleplay System**.
 
-### Advantage
+### Advantage. 
+This simply means a character is facing a given action with advantage on their side. For dice rolls, this means a player might be given an extra die or special modifier to help them succeed.
 
 ### Archetype and Pathway
 These are used in lieu of traditional character classes, and these offer roleplaying possibilities that are squarely in the hands of the players to decide.
@@ -26,7 +26,7 @@ Those core abilities are seen in a character, such as Mind, Body, and Soul.
   - Soul is a measure of a character’s humanity and ability to navigate the social-emotional and cultural world(s) around them.
 
 ### Attribute Ratings
-Each attribute, Mind, Body, and Soul, measures between zero (0) or normal and three (3) or super-heroic, but attributes might exceed this range maxing out between four (4) and ten (10). However, attributes can fall below zero (0), and they can fall as low as minus ten (-10). 
+Each attribute, Mind, Body, and Soul, measures between zero (0) or normal and four (4) or super-heroic, but attributes might exceed this range maxing out between four (4) and ten (10). However, attributes can fall below zero (0), and they can fall as low as minus ten (-10). 
 
 ### Backgrounds
 Backgrounds are those descriptors that make a player character unique. These include, but aren’t limited to, Ancestry, Beliefs, Culture, Personal History, and Social Class.
@@ -55,7 +55,7 @@ A compel is issued by a Referee, or another player, who wishes to challenge a pl
 ### Contests
 
 ### Disadvantage
-This means a character faces a challenge at a disadvantage and is penalized in turn, meaning they are less likely to succeed in tackling the challenge in question.
+This means a character faces a given action at disadvantage and is penalized in turn, meaning they are less likely to succeed in tackling the challenge in question.
 
 ### Discord
 This is the chaos that comes from leaning on one’s Fortune in-game. Discord always follows good and bad fortunes as well. Every time Fortune, Grit, or Resolve is used, Discord comes into the picture, somehow, someway: It may be immediately after, or months or years afterwards. in-game.
