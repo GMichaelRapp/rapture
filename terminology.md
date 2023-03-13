@@ -13,6 +13,9 @@ description: System Reference Document (SRD), v.3.0
 ## Terminology
 Below there is a list of common terms (often) shared with other games, some not, which will prove useful to know before starting a game powered by the **Rapture Roleplay System**.
 
+### Actions 
+Player actions (as defined below) include: Challenges, Checks, Contests, and Tasks. Player actions are classified according to their time and effort to completion (see **Playing the Game** for details). 
+
 ### Advantage. 
 This simply means a character is facing a given action with advantage on their side. For dice rolls, this means a player might be given an extra die or special modifier to help them succeed.
 
@@ -77,6 +80,7 @@ The physical well-being of a player character (PC). Starting characters are give
 Those abilities that aren’t quite skills, nor are they stunts. They are the quirky, trivial abilities unique to each character. For example, a knack might be for Sally’s character the way she cleans her weapon, making it more efficient and less likely to jam with extended use. Knacks follow the **RULE OF THREE** for determining success, and they are usually rolled on a d6 or, in some contexts, a d8.
 
 ### Modifiers
+The best analogy for the modifier is the foot wedge among amateur golfers. Officially, the foot wedge isn’t condoned by professional golfers. Unofficially, for non-professionals, amateurs, if you will, it is meant to soften the hard edge of the game, adding or subtracting from the dice results. 
 
 ### Moxie
 
